@@ -10,6 +10,9 @@ public class Assignment1 {
 		float finalSum = prod1 + prod2 + prod3;
 		float finalAmount = (taxper/100)*finalSum;
 		System.out.println("Final Amount"+finalAmount);
+		
+		
+		
 	}
 	
 }
